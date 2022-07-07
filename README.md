@@ -1,4 +1,7 @@
 # examen_integrador
+<<<<<<< HEAD
+Luz Xiomara Arango Ramirez
+=======
 
 
 <<<<<<< HEAD
